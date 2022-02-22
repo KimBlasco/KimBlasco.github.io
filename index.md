@@ -1,6 +1,6 @@
 ## Welcome to My Very First Website
 
-My name is Kim Blasco and my github site is [kimblasco.github.io/](https://kimblasco.github.io/) .
+My name is Kim Blasco and my github site is [kimblasco.github.io/](https://kimblasco.github.io/).
 
 ### Markdown
 
